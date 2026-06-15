@@ -74,3 +74,24 @@ On Android 12+ (API 31+), the app targets friendly permission profiles omitting 
    ```bash
    ./gradlew test
    ```
+
+<img width="422" height="685" alt="Screenshot 2026-06-15 at 8 59 14 PM" src="https://github.com/user-attachments/assets/d405e1dc-072d-4148-879f-5f4884e47b25" />
+<img width="422" height="685" alt="Screenshot 2026-06-15 at 8 59 29 PM" src="https://github.com/user-attachments/assets/b85438a2-7d72-4f23-a2f6-4409278bbecc" />
+<img width="422" height="685" alt="Screenshot 2026-06-15 at 8 59 59 PM" src="https://github.com/user-attachments/assets/6758a3c5-e9cb-4962-8376-84abd0f501c6" />
+<img width="422" height="685" alt="Screenshot 2026-06-15 at 9 00 14 PM" src="https://github.com/user-attachments/assets/3aee43e1-c124-48bb-8269-6b7856e92081" />
+<img width="422" height="685" alt="Screenshot 2026-06-15 at 9 00 40 PM" src="https://github.com/user-attachments/assets/c0138a7e-7dcc-4b00-9d49-9f5c554c2532" />
+<img width="422" height="685" alt="Screenshot 2026-06-15 at 9 01 23 PM" src="https://github.com/user-attachments/assets/56a91c06-c157-40a5-8733-76ffc0ae88ef" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
